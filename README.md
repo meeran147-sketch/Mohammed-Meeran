@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohammed Meeran S
 
-### 📊 Aspiring Data Analyst | Power BI | SQL | Python | Excel
+### 📊  Data Analyst | Power BI | SQL | Python | Excel
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Turning+Data+into+Insights;Always+Learning+New+Technologies" />
